@@ -6,20 +6,20 @@
         "administrador": "true"
     },
     {
-        "nome": "Maria Pereira",
-        "email": "marpereira@qa.com.br",
+        "nome": "Maria Oliveira",
+        "email": "mariaoliv@qa.com.br",
         "password": "teste",
         "administrador": "true"
     },
     {
         "nome": "João Lima",
-        "email": "joao_lima@qa.com.br",
+        "email": "joaolima@qa.com.br",
         "password": "teste",
         "administrador": "true"
     },
     {
         "nome": "Ana Maria",
-        "email": "aninha@qa.com.br",
+        "email": "aninha@qa.com",
         "password": "teste",
         "administrador": "true"
     }
